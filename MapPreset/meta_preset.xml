@@ -1,0 +1,11 @@
+<meta>
+	<info type="script" name="JStreamer Map Preset" author="JDev(CodyJ)" description="JStreamer Map Preset" version="1" />
+	<file src="gta3.JSD" />
+ 
+	<script src="Loaders/JSDLoader.lua" type="client" />
+	<script src="Loaders/JSPLoader.lua" type="server" />
+ 
+	<script src="Settings/CWaterData.lua" type="client" />
+	<script src="Settings/Server.lua" type="server" />
+	
+</meta>
